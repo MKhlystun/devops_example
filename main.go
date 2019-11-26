@@ -17,7 +17,7 @@ func hello(w http.ResponseWriter, req *http.Request) {
                 <link href="statics/style.css" rel="stylesheet">
                 </head>
                 <body>
-                <h1>Hello WG Forge 2019</h1>
+                <h1>Hello WG Forge 2020</h1>
                 </body>
                 </html>`))
 }
